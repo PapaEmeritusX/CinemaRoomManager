@@ -1,8 +1,6 @@
 # Cinema Room Manager
 ### About
-The cinema room created can accommodate up to 9 rows and 9 columns of 360 seats. 
-(Seats from the first to the fourth-row cost $10, the rest are sold for $8)
-After setting the room user is provided with a management menu.
+The cinema room created can accommodate up to 9 rows and 9 columns of 360 seats.  (Seats from the first to the fourth-row cost $10, the rest are sold for $8).  After setting the room user is provided with a management menu.
 ```
 1. Show the seats
 2. Buy a ticket
