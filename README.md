@@ -1,6 +1,8 @@
 # Cinema Room Manager
 ### About
-The cinema room created can accommodate up to 9 rows and 9 columns of 360 seats.  (Seats from the first to the fourth-row cost $10, the rest are sold for $8).  After setting the room user is provided with a management menu.
+The cinema room created can accommodate up to 9 rows and 9 columns of 360 seats.</br>  
+(Seats from the first to the fourth-row cost $10, the rest are sold for $8).</br>
+After setting the room user is provided with a management menu.
 ```
 1. Show the seats
 2. Buy a ticket
@@ -112,6 +114,6 @@ Total income: $360
 0. Exit
 > 0
 ```
-Cinema manager build upon multidimensional arrays and some simple functions for command line text interface:
+Cinema manager build upon multidimensional arrays and some simple functions for command line text interface.
 
 The application is built in a single class, which could be improved by setting the logic from the interface into a separate class.
